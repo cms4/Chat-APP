@@ -1,0 +1,25 @@
+This is a chat room using peer to peer model in distribute type. 
+
+To use the program:
+
+	Enter your desired username and click the log in button, if the status bar shows blue words (means connected), 
+   you then can choose to wait for invitation of the people from other chat room or enter your desired chat room name and click the
+   create new chatroom button to create a chat room locally. If the status bar shows red words (means not connected yet), means some trouble
+   happens in your network connection. You may check for system standard output for more information or just check your connection.
+   
+   If you got an invitation, a popup window will show up ask for confirmation. Hit access to join the chat room and reject for ignore the invitation.
+   
+   After create the new chat room, you can invite other people by firstly entering other people's IP address and hit Invite button. You will see the response for
+   the people you invite.
+   
+   Type messages and hit send message button to chat with all the people that is in the chat room.
+   
+   Click on send file button and choose a file on your computer to send file to all people in that chat room.
+   
+   People in chat room also can send you the file. The file will be display in specific way depends on the type of the file. 
+   
+   To leave a single chat room, click on the specific tab of the chat room you would like to leave and click on the Quit ChatRm button.
+   
+   To leave all the chat room or changing your username, you can just click on Log out and do the re-login process.
+   
+   To quit the program, click on quit button.
